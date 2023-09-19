@@ -1,0 +1,3 @@
+==========CLASSES AND CONSTRUCTOR==========
+Basically classes are considered to be a syntactical sugar for the purpose of holding properties and methods.
+Whenever the object is initialised from class constructor is called.
